@@ -1,3 +1,10 @@
+## Installation
+Simply clone the repo to your local environment, `cd` into the project, and run `npm install`.
+
+To run the application, enter `npm run dev` into your console and copy the local url provided from the console.
+
+*This application was built for mobile devices, please open dev tools in your browser and switch to mobile view, or use a mobile device for the best results.*
+
 # React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
